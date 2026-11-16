@@ -1,0 +1,16 @@
+Package: purpleos
+Version: 1.1.0
+Architecture: all
+Maintainer: Purple OS Project <root@localhost>
+Depends: bash, coreutils, procps, apt, python3, systemd, adduser
+Filename: pool/purpleos_1.1.0_all.deb
+Size: 7756
+MD5sum: 4dcf4ad7f7c820a2d2dd6a55dd5564d8
+SHA1: eb742a6e4898fa1251af7eaaedc62652d3b67271
+SHA256: 11526d2d1081813eba93f3d6d66a06fe4694cfb5bccae9976b33b4e2e12f0f7f
+Section: admin
+Priority: optional
+Description: Purple OS customization package
+ Purple OS branding, terminal tools, system monitoring and secure
+ web dashboard for Debian-based server environments.
+

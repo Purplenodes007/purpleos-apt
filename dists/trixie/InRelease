@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Mon, 16 Nov 2026 02:43:50 +0000
+Label: Purple OS
+Origin: Purple OS
+Suite: trixie
+MD5Sum:
+ bbef7f54ef2dd409283fe6e155ed5ad0              142 Release
+ 06194cb72c9d1643e449af1432cbc9b9              572 main/binary-amd64/Packages
+ 9dffdad556407ae0ecd11b0a313817e8              425 main/binary-amd64/Packages.gz
+SHA1:
+ 3154276f2d54ed7da456d7d183bfe8cff6c180c9              142 Release
+ b32ebbfb2766fc5ee4149cc8d7faf0d5ecabd852              572 main/binary-amd64/Packages
+ 7bfc6cd0d04d278c5d89a305081ec42d789237e6              425 main/binary-amd64/Packages.gz
+SHA256:
+ efafeb0baf10ad835be12d4ce211ff4c7c1e5af390b84afe1d24f4962d119beb              142 Release
+ ef84b798879be57789d6cfc31c41ac8f587ba9c8af6dcd86f1b92ba7f2edea03              572 main/binary-amd64/Packages
+ 6135af1dffe3e46dfe5c60cdc7aac0fc399c85e457b9065683d69c6ef944d879              425 main/binary-amd64/Packages.gz
+SHA512:
+ 821f33308187eeebb3c08b775d4f967e62fa1ac1852d3688d134d63e9b7942bb5398877fc4067138e9da693d169be5e4c0d43b255ca808fce4d65eabb6ec67bc              142 Release
+ f857938bd46bba71f8194d50ddfddfcb1617c1bbaadbd03c5df3f0da01e6ea934bf2fb0a37e9abc92b523626ae05e1126f61639fcfbf500e33988bf2f0b46c25              572 main/binary-amd64/Packages
+ 41f8635e92c262f3e75edde4c0d8b4cfe9e79ef400f7b22e77bbb3f114c0d4ce92944965e8bb703ccdbdcdf1b67608129f3969586f3521bdf621da9a2d425d12              425 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1D30L8Px7TB97tYJHXbnTVOTSugFAmr6bewACgkQHXbnTVOT
+SujFzhAArTQK8HYCT4l5soAexip5C7yrb1i9rWmwyvsmOd15dtaGPSi/eG49pFMt
+mAeC9RFxo9HZb48Ti/D0/UXyEB2FqxJ7TyLSPQbSI9EO1v0DhpbDx8S7A6DHLFN+
+Ii0WLd0yRdikSDzP3tmTwxVQ9CkSw6/RuexHFzR33mAIYLILtWf512aW8G50/QmH
+anROP8ZJk46g/tYsU/siqKYntFpBaWGDqCgbmv6Cq1Oa3LGqTin2sYAihbNDqfat
+URD0vze14mSWnp4z7f1ojaeOiBlbvxqvLA83AcdaB0FVtQI8HO3npj3EYDgEMWkB
+Kzmnd/+8sDcImVjE49senwbI658F9ozxLqI9AnM9fgKtHq1yzXr7U95ezOfNF6H4
+N04taZ90+pY32DFto1tfyPOXSuCYfoVIYv4/s+7A7NlfbEPzXjy+U6jimeiBLcWG
+gyKyO4gmCf1rZ+ntChyqT1pnhICMJvdveS5uXoE0U7clx9xFzmVSw90m4udaDqUQ
+BdQVLOzSGCBqJ38f5XAlFRL5tY5BX6d1Cz+k7Y47Ap/FcuB44geQrvRd1igQ0jYr
+lj8sHjwGJkxyy2pAB4MebsidX5tvZo8TKwm6my75/P1+CtD7ZsbBLVLOG3q1Ndsg
+9RUGnr8LqLfVlIkAXLHZDOckyCD5aRZuIBvaeJzibk3rVWyEBEQ=
+=XxKk
+-----END PGP SIGNATURE-----
